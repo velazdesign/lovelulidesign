@@ -1,0 +1,29 @@
+LOVE LULI DESIGN — Pacote para Cloudflare Pages
+
+Este pacote já pode ser publicado no Cloudflare Pages do jeito que está.
+
+IMPORTANTE SOBRE AS IMAGENS
+- O site está funcional mesmo sem baixar as imagens.
+- As imagens atuais continuam apontando para os arquivos originais hospedados no servidor do Kleap (assets.kleap.io).
+- Portanto, você NÃO precisa baixar essas imagens para colocar o site no ar agora.
+
+SE QUISER TORNAR O SITE 100% INDEPENDENTE NO FUTURO
+- O arquivo baixar_imagens.py continua incluído no pacote.
+- Ele serve apenas como etapa opcional para baixar e relinkar as imagens localmente.
+- Se preferir, também podemos fazer isso depois com os arquivos originais exportados.
+
+PUBLICAÇÃO
+1. Extraia o ZIP.
+2. Envie todos os arquivos da pasta para o Cloudflare Pages.
+3. Mantenha o index.html na raiz do projeto.
+
+Arquivos principais:
+- index.html
+- favicon.svg
+- favicon-32.png
+- apple-touch-icon.png
+- site.webmanifest
+- robots.txt
+- sitemap.xml
+- _headers
+
