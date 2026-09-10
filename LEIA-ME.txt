@@ -1,0 +1,1 @@
+Projeto Love Luli Design pronto para GitHub + Cloudflare Pages. Mantenha index.html na raiz do repositório.
